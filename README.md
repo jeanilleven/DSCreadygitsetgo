@@ -1,5 +1,7 @@
 # DSCreadygitsetgo
 
+Switch to branch NamesList
+
 Git pull the branch NamesList.
 
 In index.html, add your name and email address within the list. 
